@@ -1,0 +1,15 @@
+C:\Online Shopping System\Online Shopping System\ABC\ABC\bin\Debug\net6.0\ABC.exe
+C:\Online Shopping System\Online Shopping System\ABC\ABC\bin\Debug\net6.0\ABC.deps.json
+C:\Online Shopping System\Online Shopping System\ABC\ABC\bin\Debug\net6.0\ABC.runtimeconfig.json
+C:\Online Shopping System\Online Shopping System\ABC\ABC\bin\Debug\net6.0\ABC.dll
+C:\Online Shopping System\Online Shopping System\ABC\ABC\bin\Debug\net6.0\ABC.pdb
+C:\Online Shopping System\Online Shopping System\ABC\ABC\obj\Debug\net6.0\ABC.csproj.AssemblyReference.cache
+C:\Online Shopping System\Online Shopping System\ABC\ABC\obj\Debug\net6.0\ABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Online Shopping System\Online Shopping System\ABC\ABC\obj\Debug\net6.0\ABC.AssemblyInfoInputs.cache
+C:\Online Shopping System\Online Shopping System\ABC\ABC\obj\Debug\net6.0\ABC.AssemblyInfo.cs
+C:\Online Shopping System\Online Shopping System\ABC\ABC\obj\Debug\net6.0\ABC.csproj.CoreCompileInputs.cache
+C:\Online Shopping System\Online Shopping System\ABC\ABC\obj\Debug\net6.0\ABC.dll
+C:\Online Shopping System\Online Shopping System\ABC\ABC\obj\Debug\net6.0\refint\ABC.dll
+C:\Online Shopping System\Online Shopping System\ABC\ABC\obj\Debug\net6.0\ABC.pdb
+C:\Online Shopping System\Online Shopping System\ABC\ABC\obj\Debug\net6.0\ABC.genruntimeconfig.cache
+C:\Online Shopping System\Online Shopping System\ABC\ABC\obj\Debug\net6.0\ref\ABC.dll
