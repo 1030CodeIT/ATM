@@ -1,2 +1,0 @@
-# ATM
-ATM Console Application
